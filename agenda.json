@@ -1,0 +1,46 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "title": "Reuniao com cliente (atualizada)",
+      "date": "2026-06-30",
+      "time": "09:30",
+      "description": "Revisar contrato final"
+    },
+    {
+      "id": 3,
+      "title": "Pagar contas",
+      "date": "2026-06-30",
+      "time": "12:30",
+      "description": "Luz, internet e cartao"
+    },
+    {
+      "id": 4,
+      "title": "Consulta odontologica",
+      "date": "2026-07-01",
+      "time": "10:00",
+      "description": "Limpeza semestral"
+    },
+    {
+      "id": 5,
+      "title": "Planejar semana",
+      "date": "2026-07-01",
+      "time": "20:00",
+      "description": "Definir prioridades e blocos de foco"
+    },
+    {
+      "id": 6,
+      "title": "Estudar API REST",
+      "date": "2026-06-30",
+      "time": "21:00",
+      "description": "Praticar CRUD"
+    },
+    {
+      "id": 7,
+      "title": "Academia (novo)",
+      "date": "2026-06-30",
+      "time": "18:30",
+      "description": "Treino de pernas"
+    }
+  ]
+}
